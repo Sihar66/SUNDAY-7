@@ -1,0 +1,11 @@
+
+body, html {
+  margin: 0;
+  padding: 0;
+  background-color: #fff;
+}
+.fullscreen-img {
+  width: 100%;
+  height: auto;
+  display: block;
+}
